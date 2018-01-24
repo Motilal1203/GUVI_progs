@@ -6,11 +6,11 @@ void main()
    scanf("%d %d %d", &a, &b, &c);
  
    if ((a > b) && (a > c))
-      printf("\n%d is greatest",a);
+      printf("%d is greatest",a);
  
    if ((b > c) && (b > a))
-      printf("\n%d is greatest",b);
+      printf("%d is greatest",b);
  
    if ((c > a) && (c > b))
-      printf("\n%d is greatest",c);
+      printf("%d is greatest",c);
 }
