@@ -13,7 +13,7 @@ void main()
         }
     }
     if(t==1)
-    printf("Not Prime");
+    printf("No");
     else
-    printf("Prime ");
+    printf("Yes");
 }
